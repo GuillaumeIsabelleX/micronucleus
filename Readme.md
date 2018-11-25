@@ -1,3 +1,7 @@
+# @stcgoal Mastery of Small energysaving board programming
+* @a A working ATTINY85 programmer with power included
+* @cr Raspbian Arduino functional env.  Windows too
+----
 Micronucleus V2.03
 ==================
 
